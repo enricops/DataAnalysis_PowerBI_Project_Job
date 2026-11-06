@@ -48,7 +48,7 @@ This report consists of two interactive pages, providing both a high-level overv
 
 ### Page 1: Data Jobs Market Overview
 
-![Data Jobs Dashboard Page 1](../Resources/images/Project1_Dashboard_Page1.gif)
+![Data Jobs Dashboard Page 1](./Assets/Data%20Jobs%20Dashboard%20Page%201.gif)
 
 The first page provides a comprehensive overview of the data job market through several key performance indicators and visualizations.
 
@@ -70,7 +70,7 @@ Additionally, a custom Salary Star Rating was implemented using a Quick Measure-
 
 ### Page 2: Job Title Drill-Through Analysis
 
-![Data Jobs Dashboard Page 2](../Resources/images/Project1_Dashboard_Page2.gif)
+![Data Jobs Dashboard Page 2](./Assets/Data%20Jobs%20Dashboard%20Page%202.gif)
 
 The second page provides a more detailed analysis of an individual job title through the drill-through functionality.
 
